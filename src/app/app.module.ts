@@ -8,6 +8,8 @@ import { InformationdashboardComponent } from './informationdashboard/informatio
 import { ProfileregistrationComponent } from './profileregistration/profileregistration.component';
 import { ProfilesComponent } from './profiles/profiles.component';
 import { LoginComponent } from './login/login.component';
+import { ResetpasswordComponent } from './resetpassword/resetpassword.component';
+import { ForgotpasswordComponent } from './forgotpassword/forgotpassword.component';
 
 
 
@@ -19,6 +21,8 @@ import { LoginComponent } from './login/login.component';
     ProfileregistrationComponent,
     ProfilesComponent,
     LoginComponent,
+    ResetpasswordComponent,
+    ForgotpasswordComponent,
   ],
   imports: [
     BrowserModule,
