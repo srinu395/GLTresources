@@ -1,0 +1,23 @@
+/*----------------------index css----------------*/
+.sect{
+  background: #e9ecef;
+}
+.headers_text{
+  color: #ffdbff;
+}
+#h1{
+  font-size: 36px;
+  text-align: center;
+  padding: 2rem;
+}
+#h1 a{
+    color: #673ab7;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+#h1 a:hover{
+    text-decoration: none;
+}
+/*------------------------------------------------*/

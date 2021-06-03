@@ -1,0 +1,37 @@
+.card {
+    border-radius: 0;
+    border: none;
+}
+
+.card1 {
+    width: 100%;
+    padding: 20px;
+}
+
+#logo {
+    width: 150px;
+}
+.main-heading{
+    border-bottom: 1px solid grey;
+}
+.header-logo{
+    text-align: center;
+}
+.heading-title{
+   
+}
+.heading-title h2{
+    font-size: 20px;
+}
+.heading-title h3{
+    font-size: 18px;
+}
+.heading-title h4{
+    font-size: 16px;
+}
+.heading-title h5{
+    font-size: 16px;
+}
+.heading-title h6{
+    font-size: 16px;
+}
